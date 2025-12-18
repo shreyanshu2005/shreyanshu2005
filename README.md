@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Shreyanshu kunwar:
 🔭 I’m currently working on data science and ML Projects.<br>👯 I’m looking to collaborate on advance level data science and ML projects<br>🤝 I’m looking for help with improving data analysis and machine learning skills<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights
 
 
